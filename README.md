@@ -1,6 +1,6 @@
-# Gene Prospera Academy LMS
+# Story of Microbes LMS
 
-A deployable web-based Learning Management System inspired by modern AI career accelerator LMS patterns, built for original Gene Prospera Biotech courses.
+A deployable web-based Learning Management System inspired by modern AI career accelerator LMS patterns, built for original DNA Diaries courses.
 
 ## Included Features
 
@@ -24,7 +24,7 @@ A deployable web-based Learning Management System inspired by modern AI career a
 Admin:
 
 ```text
-Email: geneprosperabiotech@gmail.com
+Email: storyofmicrobes@gmail.com
 Password: admin1234
 ```
 
